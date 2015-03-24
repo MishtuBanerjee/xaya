@@ -1,3 +1,26 @@
+#!/usr/bin/env python
+"""
+xayabee: a little dose of bee genetics ...
+
+BeginDate:2012
+CurrentRevisionDate:20150324
+Development Version : core 001
+Release Version: pre-release
+
+Author(s): Mishtu Banerjee, Robin Owens
+Contact: mishtu_banerjee@shaw.ca
+
+Copyright: 2012-2015, The Authors
+License: Distributed under MIT License
+    [http://opensource.org/licenses/mit-license.html]
+    
+Original Environment: Programmed and tested under Python 2.7.X
+ 
+Dependencies:
+    Python Interpreter and base libraries.
+    xaya: xayacore, xaystats
+
+"""
 import xayastats
 
 def genHaploid(numberofalleles= 0):
